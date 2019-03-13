@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/Basic/Basic.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/MSPaint/MSPaint.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/MSPaint/MSPaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/Notepad/Notepad.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/Notepad/Notepad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acmicpc/acmicpc.iml" filepath="$PROJECT_DIR$/acmicpc/acmicpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/applet.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/certification_practice/certification_practice.iml" filepath="$PROJECT_DIR$/practice/certification_practice/certification_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/code vita/code vita.iml" filepath="$PROJECT_DIR$/IdeaProjects/code vita/code vita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/codechef/codechef.iml" filepath="$PROJECT_DIR$/practice/codechef/codechef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/codevita/codevita.iml" filepath="$PROJECT_DIR$/practice/codevita/codevita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/collection/collection.iml" filepath="$PROJECT_DIR$/IdeaProjects/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/compiler/compiler.iml" filepath="$PROJECT_DIR$/practice/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/csdojo/csdojo.iml" filepath="$PROJECT_DIR$/practice/csdojo/csdojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/file/file.iml" filepath="$PROJECT_DIR$/IdeaProjects/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/interview/interview.iml" filepath="$PROJECT_DIR$/practice/interview/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/layout/layout.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/layout/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/os/os.iml" filepath="$PROJECT_DIR$/os/os.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/practice/practice.iml" filepath="$PROJECT_DIR$/IdeaProjects/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice1.iml" filepath="$PROJECT_DIR$/practice/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/applet/swing/swing.iml" filepath="$PROJECT_DIR$/IdeaProjects/applet/swing/swing.iml" />
+    </modules>
+  </component>
+</project>

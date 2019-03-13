@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/applet/Basic/Basic.iml" filepath="$PROJECT_DIR$/applet/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/applet/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/MSPaint/MSPaint.iml" filepath="$PROJECT_DIR$/applet/MSPaint/MSPaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/applet/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/out/production/MusicPlayer/MusicPlayer1.iml" filepath="$PROJECT_DIR$/applet/out/production/MusicPlayer/MusicPlayer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/Notepad/Notepad.iml" filepath="$PROJECT_DIR$/applet/Notepad/Notepad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/applet/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/applet.iml" filepath="$PROJECT_DIR$/applet/applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code vita/code vita.iml" filepath="$PROJECT_DIR$/code vita/code vita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/layout/layout.iml" filepath="$PROJECT_DIR$/applet/layout/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/music.iml" filepath="$PROJECT_DIR$/applet/music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/newmusicplayer.iml" filepath="$PROJECT_DIR$/applet/newmusicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet/swing/swing.iml" filepath="$PROJECT_DIR$/applet/swing/swing.iml" />
+    </modules>
+  </component>
+</project>
